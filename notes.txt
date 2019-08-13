@@ -1,0 +1,5 @@
+# anotações importantes 
+
+++ React
+ -- Bibioleta para construção de interfaces
+ -- Arquitetura SPA (Single-Page Applications)
